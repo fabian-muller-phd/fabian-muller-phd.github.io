@@ -35,7 +35,7 @@ classes: page--pubs
   <ul class="pubs-list">
 
   <li class="pub">
-    <span class="cite"><b>Müller, F.</b>, Jury, M., & Aelenei, C. (2025, June 18). <em>When accommodations are not enough: A multi-study examination of teacher bias toward students with special educational needs across student gender</em> [Preprint]. PsyArXiv.
+    <span class="cite"><b>Müller, F.</b>, Aelenei, C., & Jury, M. (2025, June 18). <em>When accommodations are not enough: A multi-study examination of teacher bias toward students with special educational needs across student gender</em> [Preprint]. PsyArXiv.
     <a href="https://doi.org/10.31234/osf.io/fx7jc_v1" target="_blank" rel="noopener">https://doi.org/10.31234/osf.io/fx7jc_v1</a></span>
   <div class="actions">
     <a class="dl-btn" href="/assets/papers/mueller_2025_preprint.pdf" download>Download</a>
