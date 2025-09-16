@@ -178,9 +178,9 @@ classes: page--pubs
 <ul class="pubs-list">
   <li class="pub">
     <span class="cite">
-      Jury, M., <b>Müller, F.</b>, & Aelenei, C. (submitted).
-      <em>Perceived academic success of students with special educational needs: Interaction with students’ gender</em>.
-      EARLI, Graz, Austria.
+      Jury, M., <b>Müller, F.</b>, & Aelenei, C. (2025, July).
+      <em>Experimental evidence regarding backlash effects against students with SEN in inclusive education</em>.
+      LICIE, London, UK.
     </span>
   </li>
 
