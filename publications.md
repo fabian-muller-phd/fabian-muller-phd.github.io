@@ -142,7 +142,7 @@ classes: page--pubs
 
   <li class="pub">
     <span class="cite"><b>Müller, F.</b> (2025). <em>Le même travail, mais pas la même note: Le biais caché envers les élèves avec des besoins éducatifs particuliers</em> [Same work, different grade: The hidden bias against students with special educational needs]. Le 21 du LaPsyDÉ. 
-    <a href="https://www.le21dulapsyde.com/post/le-m%C3%AAme-travail-mais-pas-la-m%C3%AAme-note-le-biais-cach%C3%A9-envers-les-%C3%A8l%C3%A8ves-avec-des-besoins-%C3%A9ducatifs" target="_blank" rel="noopener">https://www.le21dulapsyde.com/post/le-m%C3%AAme-travail-mais-pas-la-m%C3%AAme-note-le-biais-cach%C3%A9-envers-les-%C3%A8l%C3%A8ves-avec-des-besoins-%C3%A9ducatifs</a></span>
+    <a href="https://www.le21dulapsyde.com/post/le-m%C3%AAme-travail-mais-pas-la-m%C3%AAme-note-le-biais-cach%C3%A9-envers-les-%C3%A9l%C3%A8ves-avec-des-besoins-%C3%A9ducatifs" target="_blank" rel="noopener">https://www.le21dulapsyde.com/post/le-m%C3%AAme-travail-mais-pas-la-m%C3%AAme-note-le-biais-cach%C3%A9-envers-les-%C3%A9l%C3%A8ves-avec-des-besoins-%C3%A9ducatifs</a></span>
   </li>
   
   <li class="pub">
