@@ -141,6 +141,11 @@ classes: page--pubs
   <ul class="pubs-list">
 
   <li class="pub">
+    <span class="cite"><b>Müller, F.</b> (2025). <em>Le même travail, mais pas la même note: Le biais caché envers les élèves avec des besoins éducatifs particuliers</em> [Same work, different grade: The hidden bias against students with special educational needs]. Le 21 du LaPsyDÉ. 
+    <a href="https://www.le21dulapsyde.com/post/le-m%C3%AAme-travail-mais-pas-la-m%C3%AAme-note-le-biais-cach%C3%A9-envers-les-%C3%A8l%C3%A8ves-avec-des-besoins-%C3%A9ducatifs" target="_blank" rel="noopener">https://www.le21dulapsyde.com/post/le-m%C3%AAme-travail-mais-pas-la-m%C3%AAme-note-le-biais-cach%C3%A9-envers-les-%C3%A8l%C3%A8ves-avec-des-besoins-%C3%A9ducatifs</a></span>
+  </li>
+  
+  <li class="pub">
     <span class="cite"><b>Müller, F.</b> (2019). <em>HOW TO Nr. 3: Sprechen Sie LGBT*IQ? Leitfaden für eine genderinklusive und -gerechte Sprache</em> [Do you speak LGBT*IQ? Guideline for gender-inclusive and fair language]. PrOut@Work-Foundation.
     <a href="https://www.proutatwork.de/produkt/how-to-3-sprechen-sie-lgbtiq/" target="_blank" rel="noopener">https://www.proutatwork.de/produkt/how-to-3-sprechen-sie-lgbtiq/</a></span>
   </li>
