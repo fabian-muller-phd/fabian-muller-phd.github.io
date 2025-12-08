@@ -119,7 +119,7 @@ classes: page--research
 
       <p class="list-label"><strong>Key findings</strong></p>
       <ul class="list-tight">
-        <li>Identical work was graded lower when SEN status was disclosed, <a href="https://doi.org/10.31234/osf.io/fx7jc_v1" target="_blank" rel="noopener">unless teachers viewed the accommodation as fair</a>.</li>
+        <li>Identical work was graded lower when SEN status was disclosed, <a href="https://www.sciencedirect.com/science/article/pii/S0742051X25003828" target="_blank" rel="noopener">unless teachers viewed the accommodation as fair</a>.</li>
         <li>Not all accommodations are viewed equally: extra time and computer use are judged more fair and comparable; oral assistance or exemptions are seen <a href="https://doi.org/10.31219/osf.io/fcnz4_v1" target="_blank" rel="noopener">as less comparable</a>.</li>
         <li>The gap between “this feels fair” and “this is equivalent” reflects a persistent worry about maintaining ranking.</li>
         <li>Takeaway: fairness-focused teacher training can reduce bias and support genuinely inclusive assessment.</li>
