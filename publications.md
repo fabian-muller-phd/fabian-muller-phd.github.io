@@ -35,14 +35,6 @@ classes: page--pubs
   <ul class="pubs-list">
 
   <li class="pub">
-    <span class="cite"><b>Müller, F.</b>, Aelenei, C., & Jury, M. (2025, June 18). <em>When accommodations are not enough: A multi-study examination of teacher bias toward students with special educational needs across student gender</em> [Preprint]. PsyArXiv.
-    <a href="https://doi.org/10.31234/osf.io/fx7jc_v1" target="_blank" rel="noopener">https://doi.org/10.31234/osf.io/fx7jc_v1</a></span>
-  <div class="actions">
-    <a class="dl-btn" href="/assets/papers/mueller_2025_preprint.pdf" download>Download</a>
-  </div>
-</li>
-
-  <li class="pub">
     <span class="cite">Jury, M., Stanzcak, A., Huron, C., <b>Müller, F.</b>, Aelenei, C., & Sireci, S. (2025, July 11). <em>Perceived fairness of exam accommodations for students with special educational needs</em> [Preprint]. PsyArXiv.
     <a href="https://doi.org/10.31219/osf.io/fcnz4_v1" target="_blank" rel="noopener">https://doi.org/10.31219/osf.io/fcnz4_v1</a></span>
 <div class="actions">
@@ -64,6 +56,18 @@ classes: page--pubs
 <h2 id="journals">Journal Articles</h2>
 <ul class="pubs-list">
 
+  <li class="pub">
+    <span class="cite">
+      <b>Müller, F.</b>, Aelenei, C., & Jury, M. (2026). 
+      When accommodations are not enough: A multi-study examination of teacher bias toward students with special educational needs across student gender. 
+      <em>Teaching and Teacher Education, 171</em>, 105304. 
+      <a href="https://doi.org/10.1016/j.tate.2025.105304" target="_blank" rel="noopener">https://doi.org/10.1016/j.tate.2025.105304</a>
+    </span>
+    <div class="actions">
+      <a class="dl-btn" href="/assets/papers/mueller_2026_TATE.pdf" download>Download</a>
+    </div>
+  </li>
+  
   <li class="pub">
     <span class="cite">
       Melzel, S., Altvater-Mackensen, N., Ganglmayer, K., <b>Müller, F.</b>, Steinmassl, K., Hauf, P., & Paulus, M. (2025). 
