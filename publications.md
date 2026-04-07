@@ -12,6 +12,7 @@ classes: page--pubs
   <div class="hero-band__inner">
     <h1 class="hero-title">Publications & Outputs</h1>
     <p class="hero-sub">Peer-reviewed research, policy briefs, and public engagement</p>
+    <p><a class="cta" href="/assets/Publication_List_Fabian_Muller.pdf" download>Download Detailed Publication List</a></p>
   </div>
 </section>
 
