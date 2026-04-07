@@ -301,7 +301,7 @@ inequalities across COVID-affected student cohorts in France</em>. Manuscript in
       <b>Müller, F.</b>, Denk, A., & Sälzer, C. (2018, June).
       <em>HAND IN HAND – Making schools ready to fight discrimination against minorities</em>.
       ICAP, Montréal, Canada.
-      <a href="https://doi.org/10.17605/osf.io/ckv2e" target="_blank" rel="noopener">DOI</a>
+      <a href="https://doi.org/10.17605/osf.io/ckv2e" target="_blank" rel="noopener">https://doi.org/10.17605/osf.io/ckv2e</a>
     </span>
   </li>
 
