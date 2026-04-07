@@ -26,7 +26,7 @@ classes: page--pubs
     <div class="research-card"><h3><a href="#chapters">Book Chapters</a></h3><p>Chapters & handbooks</p></div>
     <div class="research-card"><h3><a href="#policy">Policy & Practice</a></h3><p>Guides & policy outreach</p></div>
     <div class="research-card"><h3><a href="#thesis">Dissertation</a></h3><p>PhD thesis – open access</p></div>
-    <div class="research-card"><h3><a href="#talks">Talks & Posters</a></h3><p>Conference contributions</p></div>
+    <div class="research-card"><h3><a href="#talks">Talks & Posters</a></h3><p>Talks, Webinars & Conference Presentations</p></div>
   </div>
 
 
@@ -36,19 +36,12 @@ classes: page--pubs
   <ul class="pubs-list">
 
   <li class="pub">
-    <span class="cite">Jury, M., Stanzcak, A., Huron, C., <b>Müller, F.</b>, Aelenei, C., & Sireci, S. (2025, July 11). <em>Perceived fairness of exam accommodations for students with special educational needs</em> [Preprint]. PsyArXiv.
-    <a href="https://doi.org/10.31219/osf.io/fcnz4_v1" target="_blank" rel="noopener">https://doi.org/10.31219/osf.io/fcnz4_v1</a></span>
-<div class="actions">
-    <a class="dl-btn" href="/assets/papers/jury_2025_preprint.pdf" download>Download</a>
-  </div>
-</li>
-
-  <li class="pub">
-    <span class="cite"><b>Müller, F.</b>, Goudeau, S., Aelenei, C., & Sanitioso, R. B. (in progress). <em>Beyond degrees: Navigating cultural mismatch and social-class identity in higher education across national contexts</em>. Manuscript in preparation, Université Paris Cité, France.</span>
+    <span class="cite"><b>Müller, F.</b>, Menu, I., Rémeau, M., Le Stanc, L., & Borst, G. (in progress). <em>Resilient or left behind? Learning trajectories and
+inequalities across COVID-affected student cohorts in France</em>. Manuscript in preparation.</span>
   </li>
-
+  
   <li class="pub">
-    <span class="cite">Sälzer, C., Denk, A., <b>Müller, F.</b>, & Kholti, M. (in revision). <em>Assessing socio-emotional learning: Perspectives on educational goals at the individual and group level</em>. In G. T. L. Brown & L. R. Harris (Eds.), <em>Handbook of human and social conditions in assessment</em> (2nd ed.). Routledge.</span>
+    <span class="cite"><b>Müller, F.</b>, Goudeau, S., Aelenei, C., & Sanitioso, R. B. (in progress). <em>Beyond degrees: Navigating cultural mismatch and social-class identity in higher education across national contexts</em>. Manuscript in preparation.</span>
   </li>
 
   </ul>
@@ -57,6 +50,14 @@ classes: page--pubs
 <h2 id="journals">Journal Articles</h2>
 <ul class="pubs-list">
 
+<li class="pub">
+    <span class="cite">
+      Jury, M., Stanzcak, A., Huron, C., <b>Müller, F.</b>, Aelenei, C., &amp; Sireci, S. (in press). 
+      Perceived fairness of exam accommodations for students with special educational needs. 
+      <em>Assessment in Education: Principles, Policy &amp; Practice.</em>
+    </span>
+  </li>
+  
   <li class="pub">
     <span class="cite">
       <b>Müller, F.</b>, Aelenei, C., & Jury, M. (2026). 
@@ -108,7 +109,7 @@ classes: page--pubs
 
   <li class="pub">
     <span class="cite">
-      Strohmaier, A.R., Schiepe-Tiska, A., Chang, Y.-P., <b>Müller, F.</b>, Lin, F.-L., & Reiss, K.R. (2020). 
+      Strohmaier, A. R., Schiepe-Tiska, A., Chang, Y.-P., <b>Müller, F.</b>, Lin, F.-L., & Reiss, K. M. (2020). 
       Comparing eye movements during mathematical word problem solving in Chinese and German. 
       <em>ZDM Mathematics Education, 52</em>, 45–58.
       <a href="https://doi.org/10.1007/s11858-019-01080-6" target="_blank" rel="noopener">https://doi.org/10.1007/s11858-019-01080-6</a>
@@ -134,9 +135,19 @@ classes: page--pubs
   <h2 id="chapters">Book Chapters</h2>
   <ul class="pubs-list">
 
+<li class="pub">
+    <span class="cite">
+      Sälzer, C., Denk, A., <b>Müller, F.</b>, &amp; Kholti, M. (in press). 
+      Assessing socio-emotional learning: Perspectives on educational goals at the individual and group level. 
+      In G. T. L. Brown &amp; L. R. Harris (Eds.), <em>Handbook of human and social conditions in assessment</em> (2nd ed.). Routledge.
+    </span>
+  </li>
+
   <li class="pub">
-    <span class="cite">Sälzer, C., Denk, A., <b>Müller, F.</b>, & Grosche, M. (2020). Spezifische Herausforderungen des Einbezugs von Schüler*innen mit sonderpädagogischem Förderbedarf in internationale Large-Scale-Assessments [Specific challenges for the inclusion of students with special educational needs in international large-scale assessments]. In C. Gresch, P. Kuhl, M. Grosche, C. Sälzer, & P. Stanat (Eds.), <em>Schüler*innen mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen</em> (pp. 55–74). Springer Fachmedien Wiesbaden.
-    <a href="https://doi.org/10.1007/978-3-658-27608-9_3" target="_blank" rel="noopener">https://doi.org/10.1007/978-3-658-27608-9_3</a></span>
+    <span class="cite">
+      Sälzer, C., Denk, A., <b>Müller, F.</b>, & Grosche, M. (2020). Spezifische Herausforderungen des Einbezugs von Schüler*innen mit sonderpädagogischem Förderbedarf in internationale Large-Scale-Assessments [Specific challenges for the inclusion of students with special educational needs in international large-scale assessments]. In C. Gresch, P. Kuhl, M. Grosche, C. Sälzer, & P. Stanat (Eds.), <em>Schüler*innen mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen</em> (pp. 55–74). Springer Fachmedien Wiesbaden.
+    <a href="https://doi.org/10.1007/978-3-658-27608-9_3" target="_blank" rel="noopener">https://doi.org/10.1007/978-3-658-27608-9_3</a>
+    </span>
   </li>
 
   </ul>
@@ -151,24 +162,25 @@ classes: page--pubs
   </li>
   
   <li class="pub">
-    <span class="cite"><b>Müller, F.</b> (2019). <em>HOW TO Nr. 3: Sprechen Sie LGBT*IQ? Leitfaden für eine genderinklusive und -gerechte Sprache</em> [Do you speak LGBT*IQ? Guideline for gender-inclusive and fair language]. PrOut@Work-Foundation.
+    <span class="cite"><b>Müller, F.</b> (2019). <em>HOW TO Nr. 3: Sprechen Sie LGBT*IQ? Leitfaden für eine genderinklusive und -gerechte Sprache</em> [Do you speak LGBT*IQ? Guideline for gender-inclusive and fair language]. PROUT AT WORK Foundation.
     <a href="https://www.proutatwork.de/produkt/how-to-3-sprechen-sie-lgbtiq/" target="_blank" rel="noopener">https://www.proutatwork.de/produkt/how-to-3-sprechen-sie-lgbtiq/</a></span>
   </li>
 
     <li class="pub">
-    <span class="cite"><b>Müller, F.</b> (2019). <em>HOW TO Nr. 4: LGBT*IQ für Einsteiger. Warum sich Vielfalt am Arbeitsplatz lohnt. Leitfaden für Arbeitgeber_innen</em> [HOW TO Nr. 4: LGBT*IQ for beginners. Why diversity in the workplace pays off. A guide for employers]. PrOut@Work-Foundation.
+    <span class="cite"><b>Müller, F.</b> (2019). <em>HOW TO Nr. 4: LGBT*IQ für Einsteiger. Warum sich Vielfalt am Arbeitsplatz lohnt. Leitfaden für Arbeitgeber_innen</em> [HOW TO Nr. 4: LGBT*IQ for beginners. Why diversity in the workplace pays off. A guide for employers]. PROUT AT WORK Foundation.
     <a href="https://www.proutatwork.de/produkt/how-to-4-lgbtiq-fuer-einsteigerinnen/" target="_blank" rel="noopener">https://www.proutatwork.de/produkt/how-to-4-lgbtiq-fuer-einsteigerinnen/</a></span>
   </li>
 
     <li class="pub">
-    <span class="cite"><b>Müller, F.</b> (2019). <em>LGBT*IQ – und Du? Coming Out für Insider. Leitfaden für Arbeitnehmer_innen</em> [HOW TO Nr. 5: LGBT*IQ – and you? Coming out for insiders. A guide for employees]. PrOut@Work-Foundation.
+    <span class="cite"><b>Müller, F.</b> (2019). <em>LGBT*IQ – und Du? Coming Out für Insider. Leitfaden für Arbeitnehmer_innen</em> [HOW TO Nr. 5: LGBT*IQ – and you? Coming out for insiders. A guide for employees]. PROUT AT WORK Foundation.
     <a href="https://www.proutatwork.de/produkt/how-to-5-queere-themen/" target="_blank" rel="noopener">https://www.proutatwork.de/produkt/how-to-5-queere-themen/</a></span>
   </li>
 
     <li class="pub">
-    <span class="cite">Denk, A.*, <b>Müller, F.*</b>, Lubaway, E.*, Sälzer, C., Kozina, A., Vidmar, M., Rasmusson, M., Jugović, I., Nielsen, B. L., Vieluf, S., Ojsteršek, A., Jurko, S. (2017). <em>Catalogue for the assessment of social, emotional, and intercultural competences.</em> HAND in HAND project.
-    <a href="https://2017-20.handinhand.si/wp-content/uploads/2019/12/SEI-measures_CATALOGUE.pdf" target="_blank" rel="noopener">https://2017-20.handinhand.si/wp-content/uploads/2019/12/SEI-measures_CATALOGUE.pdf</a>
-    <br>*equal contribution.</span>
+    <span class="cite">Denk, A.*, <b>Müller, F.*</b>, Lubaway, E.*, Sälzer, C., Kozina, A., Vidmar, M., Rasmusson, M., Marušić, I., Jensen, H. B., Nielsen, B. L., Vieluf, S., Ojsteršek, A., & Jurko, S. (2017). <em>Catalogue for the assessment of social, emotional, and intercultural competences.</em> HAND in HAND project.
+    <a href="http://dx.doi.org/10.13140/RG.2.2.25059.86560/1" target="_blank" rel="noopener">http://dx.doi.org/10.13140/RG.2.2.25059.86560/1</a>
+    <br>*equal contribution.
+    </span>
   </li>
   </ul>
 
@@ -184,7 +196,36 @@ classes: page--pubs
   <!-- Talks & Posters -->
 <h2 id="talks">Talks & Posters</h2>
 
-<h3 class="pub-year">Talks</h3>
+<h3 class="pub-year">Invited Talks & Webinars</h3>
+<ul class="pubs-list">
+  <li class="pub">
+    <span class="cite">
+      <b>Müller, F.</b>, Aelenei, C., & Jury, M. (2026, April 1).
+      <em>When fairness and comparability collide: Teachers’ perceptions of accommodations and bias in inclusive assessment</em>.
+      [Invited webinar]. AEA-Europe Inclusive Assessment SIG, Online.
+    </span>
+  </li>
+
+<li class="pub">
+    <span class="cite">
+      <b>Müller, F.</b>, Aelenei, C., & Jury, M. (2026, February 18).
+      <em>Le même travail, mais pas la même note : Le biais caché envers les élèves avec des besoins éducatifs particuliers</em>
+      [Same work, different grade: The hidden bias against students with special educational needs] [Invited talk].
+      INSPÉ Paris, Paris, France.
+    </span>
+  </li>
+
+  <li class="pub">
+    <span class="cite">
+      <b>Müller, F.</b>, Aelenei, C., & Jury, M. (2026, January 26).
+      <em>Le même travail, mais pas la même note : Le biais caché envers les élèves avec des besoins éducatifs particuliers</em>
+      [Same work, different grade: The hidden bias against students with special educational needs] [Invited talk].
+      DEPP Seminar, Paris, France.
+    </span>
+  </li>
+</ul>
+
+<h3 class="pub-year">Conference Talks</h3>
 <ul class="pubs-list">
   <li class="pub">
     <span class="cite">
@@ -193,6 +234,7 @@ classes: page--pubs
       LICIE, London, UK.
     </span>
   </li>
+
 
   <li class="pub">
     <span class="cite">
@@ -236,6 +278,14 @@ classes: page--pubs
 
   <li class="pub">
     <span class="cite">
+      Strohmaier, A. R., Schiepe-Tiska, A., <b>Müller, F.</b>, & Reiss, K. M. (2017, April).
+      <em>Mathematical reading patterns: The influence of self-concept and situational context</em>.
+      AERA, San Antonio, USA.
+    </span>
+  </li>
+
+  <li class="pub">
+    <span class="cite">
       Strohmaier, A. R., Schiepe-Tiska, A., <b>Müller, F.</b>, & Reiss, K. M. (2017, March).
       <em>Über den Zusammenhang zwischen mathematikbezogener Ängstlichkeit und Blickbewegungen beim Lesen von Mathematikaufgaben in unterschiedlichen situationellen Kontexten</em>
       [On the relationship between mathematics-related anxiety and eye movements while reading math problems in different situational contexts].
@@ -251,7 +301,7 @@ classes: page--pubs
       <b>Müller, F.</b>, Denk, A., & Sälzer, C. (2018, June).
       <em>HAND IN HAND – Making schools ready to fight discrimination against minorities</em>.
       ICAP, Montréal, Canada.
-      <a href="https://doi.org/10.17605/OSF.IO/CKV2E" target="_blank" rel="noopener">https://doi.org/10.17605/OSF.IO/CKV2E</a>
+      <a href="https://doi.org/10.17605/osf.io/ckv2e" target="_blank" rel="noopener">DOI</a>
     </span>
   </li>
 
