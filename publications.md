@@ -229,6 +229,14 @@ inequalities across COVID-affected student cohorts in France</em>. Manuscript in
 <ul class="pubs-list">
   <li class="pub">
     <span class="cite">
+      <b>Müller, F.</b>, Aelenei, C., & Jury, M. (2026, July).
+      <em>Meritocratic ideals as barriers to inclusion: Evidence of teacher backlash against students with special educational needs across student gender</em>.
+      EASP, Strasbourg, France.
+    </span>
+  </li>
+  
+  <li class="pub">
+    <span class="cite">
       Jury, M., <b>Müller, F.</b>, & Aelenei, C. (2025, July).
       <em>Experimental evidence regarding backlash effects against students with SEN in inclusive education</em>.
       LICIE, London, UK.
