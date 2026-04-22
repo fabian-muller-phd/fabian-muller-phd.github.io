@@ -52,9 +52,10 @@ inequalities across COVID-affected student cohorts in France</em>. Manuscript in
 
 <li class="pub">
     <span class="cite">
-      Jury, M., Stanzcak, A., Huron, C., <b>Müller, F.</b>, Aelenei, C., &amp; Sireci, S. (in press). 
+      Jury, M., Stanzcak, A., Huron, C., <b>Müller, F.</b>, Aelenei, C., &amp; Sireci, S. (2026). 
       Perceived fairness of exam accommodations for students with special educational needs. 
       <em>Assessment in Education: Principles, Policy &amp; Practice.</em>
+      <a href="https://doi.org/10.1080/0969594X.2026.2659038" target="_blank" rel="noopener">https://doi.org/10.1080/0969594X.2026.2659038</a>
     </span>
   </li>
   
